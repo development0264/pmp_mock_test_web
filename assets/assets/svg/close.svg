@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Rounded X - black, 15% thinner (stroke ~153) -->
+  <g fill="none" stroke="#000000" stroke-width="153" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Main diagonal: top-left to bottom-right -->
+    <line x1="120" y1="120" x2="904" y2="904"/>
+    <!-- Cross diagonal: top-right to bottom-left -->
+    <line x1="904" y1="120" x2="120" y2="904"/>
+  </g>
+</svg>

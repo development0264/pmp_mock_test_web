@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="200"
+     height="200"
+     viewBox="0 0 200 200"
+     role="img"
+     aria-label="File download progress">
+  <!-- Runtime-controlled template. No fixed-duration SMIL animation. -->
+  <circle
+    id="download-progress-circle"
+    cx="100"
+    cy="100"
+    r="80.5"
+    fill="none"
+    stroke="#FF0000"
+    stroke-width="11.04"
+    stroke-linecap="round"
+    pathLength="100"
+    stroke-dasharray="100"
+    stroke-dashoffset="100"
+    transform="rotate(-90 100 100)" />
+</svg>

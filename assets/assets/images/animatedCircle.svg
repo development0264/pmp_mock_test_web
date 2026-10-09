@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="50"
+     height="50"
+     viewBox="0 0 50 50"
+     role="img"
+     aria-labelledby="title">
+  <title id="title">Animated color-changing circle</title>
+  <circle cx="25" cy="25" r="24.5" fill="#e84298">
+    <animate attributeName="fill"
+             values="#e84298;#bb87b9;#50c3f0;#e84298"
+             keyTimes="0;0.333333;0.666667;1"
+             dur="15s"
+             repeatCount="indefinite" />
+  </circle>
+</svg>
